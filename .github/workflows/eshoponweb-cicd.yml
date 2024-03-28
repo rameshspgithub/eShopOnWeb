@@ -9,7 +9,7 @@ env:
   LOCATION: westus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 4805e2bb-d00e-418c-a06f-34ca26a831f6
-  WEBAPP-NAME: Ramesh-Suresh-Devops
+  WEBAPP-NAME: ramesh-devops
 
 
 jobs:
